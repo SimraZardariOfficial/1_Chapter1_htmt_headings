@@ -1,0 +1,5 @@
+Hypertext Markup Langauge:
+
+Tags: Two types of tags:
+Single Tag closing: <input />
+Double Tag Closing: <h4>Simra Zardari<h4/>
